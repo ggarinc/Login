@@ -1,0 +1,9 @@
+D:\Cuatri\prog visual\login\Login\Login\bin\Debug\Login.exe.config
+D:\Cuatri\prog visual\login\Login\Login\bin\Debug\Login.exe
+D:\Cuatri\prog visual\login\Login\Login\bin\Debug\Login.pdb
+D:\Cuatri\prog visual\login\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\Cuatri\prog visual\login\Login\Login\obj\Debug\Login.Form1.resources
+D:\Cuatri\prog visual\login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Cuatri\prog visual\login\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\Cuatri\prog visual\login\Login\Login\obj\Debug\Login.exe
+D:\Cuatri\prog visual\login\Login\Login\obj\Debug\Login.pdb
